@@ -15,17 +15,11 @@ I'm a passionate **Software Automation Engineer** based in London with a strong 
 - **Test Automation**: Specialized in automating tests using Selenium WebDriver with Java to improve the efficiency and accuracy of QA processes.
   
 ## 🌍 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/jibriliman)
-- Email: jibrilkfa@outlook.com
+https://www.linkedin.com/in/jibriliman
+Email: jibrilkfa@outlook.com
 
 ## 🎯 Current Focus
-I'm currently focusing on **exploratory testing**, **improving my Arabic**, and **enhancing my knowledge of big data processing**.
+I'm currently focusing on **exploratory testing**, **learning different languages**, and **enhancing my knowledge of test automation framework**.
 
-## ⚡ Fun Facts
-- I’m a huge **Manchester United** fan ⚽
-- Learning **Arabic** to open up more cultural and professional opportunities 🌍
-- Always up for a tech challenge!
-
----
 
 Feel free to check out my repositories, and don’t hesitate to reach out if you have any questions or opportunities for collaboration! 😄
