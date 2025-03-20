@@ -15,7 +15,7 @@ I'm a passionate **Software Automation Engineer** based in London with a strong 
 - **Test Automation**: Specialized in automating tests using Selenium WebDriver with Java to improve the efficiency and accuracy of QA processes.
   
 ## 🌍 Let's Connect
-https://www.linkedin.com/in/jibriliman
+Linkedin : https://www.linkedin.com/in/jibriliman
 Email: jibrilkfa@outlook.com
 
 ## 🎯 Current Focus
